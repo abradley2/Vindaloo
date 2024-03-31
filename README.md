@@ -6,13 +6,6 @@
 ```sh
 gleam add vindaloo
 ```
-```gleam
-import vindaloo
-
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
 
 Further documentation can be found at <https://hexdocs.pm/vindaloo>.
 
